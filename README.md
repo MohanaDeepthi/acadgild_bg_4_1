@@ -22,13 +22,8 @@ number entered from stdin . Eg:
 Input: 3
 O/p:
 3 x 1 = 3
-
 3 x 2 = 6
-
-.........
-.........
 .......
-
 ....
 3 x 10 = 30
 Help Joe in completing the task!
