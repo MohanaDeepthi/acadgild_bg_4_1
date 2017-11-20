@@ -28,4 +28,9 @@ O/p:
 3 x 10 = 30
 Help Joe in completing the task!
 
+6) Write a program consisting method sum() and demonstrate the concept of method
+overloading using this method.
+7) Can you overload a method with same return type.? Explain your answer with proper logic.
+8) Write a program in java using Arrays, that sorts the element in descending order.
+
 
